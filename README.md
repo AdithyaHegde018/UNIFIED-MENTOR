@@ -1,4 +1,6 @@
-Exploratory Data Analysis
+Exploratory Data Analysis – Cars Dataset
+
+This project performs Exploratory Data Analysis (EDA) on a Cars dataset using Python.
 
 🔍 Analysis
 Data cleaning
